@@ -4,7 +4,7 @@ The source code for the official guide to build a complete Elixir application, w
 
 - [Modules](#modules)
     - [KV](#kv)
-      -[KV Umbrella](#kv_umbrella)
+    -[KV Umbrella](#kv_umbrella)
 - [Why?](#why)
 
 ## Modules
