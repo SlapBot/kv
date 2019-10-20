@@ -4,7 +4,7 @@ The source code for the official guide to build a complete Elixir application, w
 
 - [Modules](#modules)
     - [KV](#kv)
-    -[KV Umbrella](#kv_umbrella)
+    - [KV Umbrella](#kv-umbrella)
 - [Why?](#why)
 
 ## Modules
@@ -28,7 +28,13 @@ Chapter 6-11 covers the new structure of the application that can be found at [E
 
 ### KV Umbrella:
 
-This repository can be found at: [Elixir-Mix-Otp-Guide](https://github.com/SlapBot/elixir-mix-otp-guide)
+This repository can be found at: [Elixir-Mix-Otp-Guide](https://github.com/SlapBot/elixir-mix-otp-guide), It came to existence from Chapter 7 where we go from an application -> project structure built of various applications (KV and KVServer in our case).
+
+5. Chapter 7: [Managing Dependencies & Umbrella Project Structure](https://github.com/SlapBot/elixir-mix-otp-guide/tree/7834972f6a0f23b9d1989485a3fe8a1797b6d6b0)
+6. Chapter 8: [Tasks & gen_tcp implementation](https://github.com/SlapBot/elixir-mix-otp-guide/tree/027e9c778338319c398fa8ef15da5f01cc268b21)
+7. Chapter 9: [Writing Doctests, Patterns & with keyword](https://github.com/SlapBot/elixir-mix-otp-guide/tree/73cf05a71daeca0b8b5f7a421a95891b36366525)
+8. Chapter 10: [Distributed Tasks & Tags Implemented](https://github.com/SlapBot/elixir-mix-otp-guide/tree/723b63a9097b15bba9dddbdf6f74b34c94098f10)
+9. Chapter 11: [Configurations & Releases Deployment](https://github.com/SlapBot/elixir-mix-otp-guide/tree/33e2b61cb8ade5339962cd7162f04f3b15bc0b8a)
 
 ## Why?
 
